@@ -27,12 +27,7 @@ Project aims to create your development team web page.
 
 <img src="./Project_007_.png" width="650" />
 
-## Objective
 
-Build a responsive web page similar to [Project 007 Snapshot](Project_007_.png)
-Add a theme button to switch your page theme day or night.
-
-- ![Project 007 Snapshot](project.gif)
 
 ### At the end of the project, following topics are to be covered;
 
